@@ -1,0 +1,11 @@
+Package: DTAMAC
+Type: Package
+Title: Decision Tree Analysis(MAC)
+Version: 0.0.0
+Author: Guangning Wei
+Maintainer: Guangning Wei <gw881@nyu.edu>
+Description: This is the DTA and RFA on Macs
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: jmvcore (>= 0.8.5), R6, caret, rpart, class, ggplot2, randomForest, rpart.plot
